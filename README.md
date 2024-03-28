@@ -32,9 +32,9 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
-What is the Average Cost?
-What is the Average Revenue?
-Determine the purchasing patterns of different demographic groups to identify areas to concentrate marketing efforts
+- What is the Average Cost?
+- What is the Average Revenue?
+- Determine the purchasing patterns of different demographic groups to identify areas to concentrate marketing efforts
 
 ### Data Analysis
 ```Excel
