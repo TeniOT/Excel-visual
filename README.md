@@ -4,6 +4,10 @@
 ---
 This data analysis project aims to provide insights into the sales performance of a Bicycle company in the year 2021. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+
+![Sales Summary](https://github.com/TeniOT/Excel-visual/assets/164643376/5346f317-04a4-49b5-abf5-df3d79f4a07c)
+
+
 ### Data Sources 
 Sales Data: The primary dataset used for this analysis is the "bike sales.csv" file, containing detailed information about each sale made by the company.
 
