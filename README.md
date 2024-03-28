@@ -38,6 +38,10 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Data Analysis
 ```Excel
+=AVERAGE()
+=MAX()
+=MIN()
+=SUM()
 =VLOOKUP()
 =XLOOKUP()
 =IF(ISNA(VLOOKUP()),"Unique","Duplicate")
