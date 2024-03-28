@@ -65,4 +65,6 @@ Based on the analysis, we recommend the following actions: the company can devel
 - Implement strategies to develop business decisions for sales in the United Kingdom as it has only one successful market category in the Youth
 
 #### References
-Microsoft 365 OneDrive
+1. Microsoft 365 OneDrive
+2. [Cisco Skills for All](https://skillsforall.com/)
+3. [Her Data Project](https://www.youtube.com/watch?v=0N9xekdKCwk)
