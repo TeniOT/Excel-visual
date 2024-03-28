@@ -66,7 +66,7 @@ Based on the analysis, we recommend the following actions: the company can devel
 - Invest in marketing and promotions in youth age group globally.
 - Focus on promoting sales in Australia for the male youth and in France for adult males.
 - Implement a customer segmentation strategy to target Female adults effectively.
-- Implement strategies to develop business decisions for sales in the United Kingdom as it has only one successful market category in the Youth
+- Implement strategies to develop business decisions for sales in the United Kingdom as it has only one successful market category, that is, Youth.
 
 #### References
 1. Microsoft 365 OneDrive
