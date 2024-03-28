@@ -8,6 +8,7 @@ This data analysis project aims to provide insights into the sales performance o
 ![Sales Summary](https://github.com/TeniOT/Excel-visual/assets/164643376/5346f317-04a4-49b5-abf5-df3d79f4a07c)
 
 
+
 ### Data Sources 
 Sales Data: The primary dataset used for this analysis is the "bike sales.csv" file, containing detailed information about each sale made by the company.
 
