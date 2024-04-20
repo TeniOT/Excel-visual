@@ -72,6 +72,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Pivot Table to Select Data for Analysis
 - Addressing Anomalies in data
   - Use a Scatter Chart to Find Outliers
+![Outliers](https://github.com/TeniOT/Introduction-to-Excel-for-data-analysis-and-visualisation/assets/164643376/8ec4d0af-a901-45f4-b4dd-7f91d8b0363f)
+
 ```Excel
   =LARGE()
   =SMALL()
