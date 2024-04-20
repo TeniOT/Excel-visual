@@ -29,7 +29,7 @@ Sales Data: The primary dataset used for this analysis is the "bike sales.csv" f
 
 
 ### Tools
-- Excel - Data cleaning
+- Microsoft 365 (Office) Excel
   - [Download Here](https://skillsforall.com/launch?id=1b81c11b-147b-49aa-8f87-a3469f24d280&tab=curriculum&view=98cbced0-abf6-53ca-b984-ef587df3e600)
 
 
@@ -83,8 +83,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results and Findings
 The analysis results are summarised as follows:
-- Average Cost = £26479
-- Average Revenue = £43764
+- Average Cost = £26,479
+- Average Revenue = £43,764
 - The youth age group is globally the poorest area of sales.
 - Female adults are buying the most product and should be targeted for marketing efforts.
 
